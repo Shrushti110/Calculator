@@ -3,5 +3,17 @@
     width: 300px;
     background-color: darkslategrey;
     border-radius: 20px;
-    margin: 20px;
+    margin: 20px auto;
+    padding: 40px 20px 40px 20px;
+}
+.screen{
+    background-color:#a1af77;
+    text-align: right;
+    width: 290px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.btn{
+    
 }
