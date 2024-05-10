@@ -1,8 +1,8 @@
 .cal-body{
-    height:320px;
+    height:340px;
     width: 250px;
-    background-color: darkslategrey;
-    border-radius: 20px;
+    background-color:rgba(3, 41, 41, 0.992);
+    border-radius: 30px;
     margin: 20px auto;
     padding: 50px 20px 50px 20px;
 }
@@ -11,7 +11,7 @@
     text-align: right;
     width: 240px;
     height: 40px;
-    border-radius: 10px;
+    border-radius: 13px;
     font-size: 30px;
     margin-bottom: 20px;
     border-color: aqua;
@@ -20,10 +20,10 @@
     width: 50px;
     text-align: center;
     font-size: 20px;
-    padding: 2px 2px 3px 3px;
+    padding: 4px 4px 7px 3px;
     margin: 6px;
     border-radius: 10px;
-    background-color: antiquewhite;
+    background-color:floralwhite;
     border-color:goldenrod;
 }
 .button-container{
@@ -35,7 +35,8 @@
 }
 .equal{
     background-color: darkorange;
-    height:74px;
+    height:86px;
+    font-size: 20px;
     width: 50px;
     padding: 2px 2px 3px 3px;
     margin: 6px;
